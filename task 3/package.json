@@ -1,0 +1,17 @@
+{
+  "name": "generate-valid-word",
+  "version": "1.0.0",
+  "description": "Generate a valid word",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "check-word": "^1.1.0"
+  }
+}

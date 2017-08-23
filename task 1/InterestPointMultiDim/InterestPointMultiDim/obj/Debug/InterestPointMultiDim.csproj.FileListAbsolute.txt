@@ -1,0 +1,6 @@
+c:\users\simidev\documents\visual studio 2017\Projects\InterestPointMultiDim\InterestPointMultiDim\obj\Debug\InterestPointMultiDim.csprojResolveAssemblyReference.cache
+c:\users\simidev\documents\visual studio 2017\Projects\InterestPointMultiDim\InterestPointMultiDim\bin\Debug\InterestPointMultiDim.exe.config
+c:\users\simidev\documents\visual studio 2017\Projects\InterestPointMultiDim\InterestPointMultiDim\bin\Debug\InterestPointMultiDim.exe
+c:\users\simidev\documents\visual studio 2017\Projects\InterestPointMultiDim\InterestPointMultiDim\bin\Debug\InterestPointMultiDim.pdb
+c:\users\simidev\documents\visual studio 2017\Projects\InterestPointMultiDim\InterestPointMultiDim\obj\Debug\InterestPointMultiDim.exe
+c:\users\simidev\documents\visual studio 2017\Projects\InterestPointMultiDim\InterestPointMultiDim\obj\Debug\InterestPointMultiDim.pdb
